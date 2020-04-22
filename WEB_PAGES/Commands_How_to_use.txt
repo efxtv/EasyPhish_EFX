@@ -1,0 +1,5 @@
+This will be tutorial to use thse files.
+1 have to activate the ngrok server to do that follow 
+./ngrok http 1354 (enable hotspot before using this in mobile)
+cd netflix
+php -S localhost:3468
