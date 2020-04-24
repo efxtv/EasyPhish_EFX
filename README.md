@@ -1,3 +1,22 @@
+  
+ _____                  ____  _   _ ___ ____  _       _____ _______  __
+| ____|__ _ ___ _   _  |  _ \| | | |_ _/ ___|| |__   | ____|  ___\ \/ /
+|  _| / _` / __| | | | | |_) | |_| || |\___ \| '_ \  |  _| | |_   \  /
+| |__| (_| \__ \ |_| | |  __/|  _  || | ___) | | | | | |___|  _|  /  \
+|_____\__,_|___/\__, | |_|   |_| |_|___|____/|_| |_| |_____|_|   /_/\_\
+best and easy fishing tool for beginners
+By:
+ _____ _______  __  _____
+| ____|  ___\ \/ / |_   _|_   __
+|  _| | |_   \  /    | | \ \ / /
+| |___|  _|  /  \    | |  \ V /
+|_____|_|   /_/\_\   |_|   \_/
+EasyPhish EFX EasyPhish_EFX is an alternative to BlackEye, Social Phish, and more git-based
+phishing applications. No link error fixed with 2 simple commands to use the application over the internet.
+
+#Please subscribe us and share this tool with others.
+
+
 # Easy EasyPhish_EFX
 # What are the things you require?
 
