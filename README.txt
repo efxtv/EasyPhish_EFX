@@ -1,3 +1,21 @@
+  
+ _____                  ____  _   _ ___ ____  _       _____ _______  __
+| ____|__ _ ___ _   _  |  _ \| | | |_ _/ ___|| |__   | ____|  ___\ \/ /
+|  _| / _` / __| | | | | |_) | |_| || |\___ \| '_ \  |  _| | |_   \  /
+| |__| (_| \__ \ |_| | |  __/|  _  || | ___) | | | | | |___|  _|  /  \
+|_____\__,_|___/\__, | |_|   |_| |_|___|____/|_| |_| |_____|_|   /_/\_\
+best and easy fishing tool for beginners
+By:
+ _____ _______  __  _____
+| ____|  ___\ \/ / |_   _|_   __
+|  _| | |_   \  /    | | \ \ / /
+| |___|  _|  /  \    | |  \ V /
+|_____|_|   /_/\_\   |_|   \_/
+EasyPhish EFX EasyPhish_EFX is an alternative to BlackEye, Social Phish, and more git-based
+phishing applications. No link error fixed with 2 simple commands to use the application over the internet.
+
+#Please subscribe us and share this tool with others.
+
 Hello, thanks for showing your interest in this video. I hope you find this easy and helpful. I've used some of the applications to make this bash file. Coding work has been done by EFX TV. We have taken files from multiple resources like BlackEye, Social Phish, and more Github Repositories, I don't own them. Most of them don't have a working Facebook and Gmail website. We have fixed them to look like realistic pages. EasyPhish_EFX is an alternative to BlackEye, Social Phish, and more git-based phishing applications. 
 
 We work hard to make this tutorial up. Your likes motivate us to make more amazing and easy Linux and Termux related tutorials.
