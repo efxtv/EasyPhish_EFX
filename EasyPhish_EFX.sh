@@ -1,6 +1,6 @@
 clear
 echo "========================================================"
-echo "Collection of tools in one Sound_fiEFX.sh., created by  "
+echo "Collection of Phishing tools EasyPhish_EFX, created by  "
 echo " _____         _     _____ _______  __  _______     __"
 echo "|_   _|__  ___| |__ | ____|  ___\ \/ / |_   _\ \   / /"
 echo "  | |/ _ \/ __| '_ \|  _| | |_   \  /    | |  \ \ / / "
